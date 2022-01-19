@@ -1,0 +1,10 @@
+.imagenes_frutas{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3rem 0;
+}
+
+.imagenes_frutas img{
+    height: 150px;
+    width: auto;
+}
